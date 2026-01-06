@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Dario 👋
+
+- 🔭 I’m currently working on quantum...
+- - 🌱 I’m currently learning ...
+- - 📫 How to reach me: ...
+
+
 
 <!--
 **dariomele/dariomele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
