@@ -1,4 +1,8 @@
-## Hi, I'm Dario 👋
+## Hi everyone👋
+
+I am Dario Melegari, a PhD student and physicist from Genoa (Italy), currently pursuing an internship at Algorithmiq (FI).
+
+
 
 - 🔭 I’m currently working on quantum...
 - 🌱 I’m currently learning ...
