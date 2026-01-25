@@ -4,9 +4,16 @@ I am Dario Melegari, a PhD student and physicist from Genoa (Italy), currently p
 
 
 
-- 🔭 I’m currently working on quantum...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on quantum computing 
+- 🌱 I’m currently learning tensor networks 
+
+## 📫 How to reach me
+
+[LinkedIn][0] | ✉️ [Email][2] 
+
+
+[0]: https://www.linkedin.com/in/
+[2]: mailto:dario.melegari@edu.unige.it
 
 
 
