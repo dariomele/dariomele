@@ -1,45 +1,49 @@
 ## Hi everyone 👋  
 
-I am **Dario Melegari**, a PhD candidate in Physics at the University of Genoa (Italy), currently working as an intern at Algorithmiq Oy in Helsinki, Finland.
+I’m **Dario Melegari**, a PhD candidate in Physics at the University of Genoa (Italy).  
 
-My research interests lie at the intersection of **quantum information theory, quantum measurement, and computational physics**, with a focus on connecting rigorous theoretical frameworks to practical implementations.
+My work sits at the crossroads of **quantum information theory, quantum measurement, and computational physics**, with a strong focus on connecting rigorous theory to practical implementations.
 
 ---
 
-## 🔬 What I’m currently working on
+## 🔬 Current Work
 
 - **Research Intern – Algorithmiq Oy (Helsinki, Finland)**  
-  Investigating the role of *Platonic solid POVMs* for the efficient estimation of observable variances, with potential applications in quantum algorithms and noise characterization.
 
 - **PhD Candidate in Physics – University of Genoa (Italy)**  
-  Conducting research in quantum information science, with emphasis on measurement theory and numerical methods for quantum systems.
+  Exploring quantum information science, with emphasis on **Quantum Machine Learning (QML)**, particularly quantum kernel methods, and **numerical methods for quantum systems**.
 
 ---
 
-## 🌱 What I’m currently learning (or trying to!)
+## 🌱 Currently Learning
 
-- Tensor networks and their applications to many-body quantum systems  
-- Advanced numerical techniques for quantum simulation  
+- Tensor networks for many-body quantum systems  
+- Optimization techniques in quantum simulation  
 - Quantum error mitigation strategies  
 - High-performance scientific computing  
 
 ---
 
-## 🧠 Research interests
+## 🧠 Research Interests
 
+- Quantum Machine Learning  
 - Quantum information theory  
 - Quantum measurement and POVMs  
 - Variational quantum algorithms  
-- Numerical methods for physics  
+- Numerical methods in physics  
 - Foundations of quantum mechanics  
 
 ---
 
-## 🌍 Outside academia
+## 🌍 Outside Academia
 
-Beyond research, I enjoy exploring the connections between physics, mathematics, and philosophy. I am also passionate about science communication and interdisciplinary collaboration.
+I enjoy exploring the deep connections between physics, mathematics, and philosophy, and I’m passionate about **science communication** and **interdisciplinary collaboration**.  
 
-When I’m not working on quantum systems, you’ll likely find me hiking, reading, or exploring new cities and new countries.
+When not immersed in quantum systems, you’ll likely find me **hiking, reading, traveling, or napping on the beach**—sometimes all at once.
+
+---
+
+✨ Always curious and open to **collaborations, discussions, and exchanging ideas** in the world of quantum science.
 
 ---
 
