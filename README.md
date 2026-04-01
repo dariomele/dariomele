@@ -15,8 +15,14 @@ My work sits at the crossroads of **quantum information theory, quantum measurem
 
 ---
 
-## 🌱 Currently Learning
+## 🔬 Current Projects
 
+- Quantum Convolutional Neural Networks (QCNNs) for medical image classification  
+
+
+---
+
+## 🌱 Currently Learning
 - Tensor networks for many-body quantum systems  
 - Optimization techniques in quantum simulation  
 - Quantum error mitigation strategies  
