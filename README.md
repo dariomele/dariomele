@@ -1,32 +1,31 @@
 ## Hi everyone 👋  
 
-I’m **Dario Melegari**, a PhD candidate in Physics at the University of Genoa (Italy).  
+I’m **Dario Melegari**, PhD candidate in Physics at the University of Genoa (Italy).  
 
-My work sits at the crossroads of **quantum information theory, quantum measurement, and computational physics**, with a strong focus on connecting rigorous theory to practical implementations.
+My work sits at the crossroads of **quantum information theory, quantum measurement, and quantum machine learning**, with a strong focus on connecting practical implementations.
 
 ---
 
 ## 🔬 Current Work
 
-- **Research Intern – Algorithmiq Oy (Helsinki, Finland)**  
-
-- **PhD Candidate in Physics – University of Genoa (Italy)**  
+- **PhD Candidate in Physics – University of Genoa (Italy)** Nov 2024 - now
   Exploring quantum information science, with emphasis on **Quantum Machine Learning (QML)**, particularly quantum kernel methods, and **numerical methods for quantum systems**.
+
+- **Research Intern – Algorithmiq Oy (Helsinki, Finland)** Nov 2025 - Mar 2026
 
 ---
 
 ## 🔬 Current Projects
 
-- Quantum Convolutional Neural Networks (QCNNs) for medical image classification  
-
+- Quantum Convolutional Neural Networks (QCNNs) for medical image classification
 
 ---
 
 ## 🌱 Currently Learning
-- Tensor networks for many-body quantum systems  
+- Tensor networks for quantum computing
 - Optimization techniques in quantum simulation  
 - Quantum error mitigation strategies  
-- High-performance scientific computing  
+- High-performance computing for physics  
 
 ---
 
