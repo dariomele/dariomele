@@ -15,9 +15,9 @@ My work sits at the crossroads of **quantum information theory, quantum measurem
 
 ---
 
-## 🔬 Current Projects
+## 🔬 Current external projects
 
-- Quantum Convolutional Neural Networks (QCNNs) for medical image classification
+- **Project Manager - Dope Hubs** Quantum Convolutional Neural Networks (QCNNs) for medical image classification
 
 ---
 
